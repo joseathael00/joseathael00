@@ -4,3 +4,7 @@
 [![Skills](https://api.devicons.dev.br/icon?icons=React%2CJavaScript%2CTypeScript%2CGit&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
                     
+<div> 
+  <a href="https://www.linkedin.com/in/jos%C3%A9-athael-selvati-616881398/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>

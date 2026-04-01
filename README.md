@@ -1,5 +1,5 @@
-Olá, sou o José Athael | Desenvolvedor Front-end
-🛠️ Minhas Tecnologias
+<p>Olá, sou o José Athael | Desenvolvedor Front-end</p>
+<p>🛠️ Minhas Tecnologias</p>
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

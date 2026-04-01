@@ -1,9 +1,7 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                    
-[![Skills](https://api.devicons.dev.br/icon?icons=JavaScript%2CTypeScript%2CReact%2CPython%2CGit&size=48&theme=dark&perline=3)](https://devicons.dev.br/)
-
-                    
-<div> 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-athael-selvati-616881398/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+🛠️ Minhas Tecnologias
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>

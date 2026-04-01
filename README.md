@@ -1,4 +1,4 @@
-<p>José Athael | Front-end Developer</p>
+<h1>José Athael | Front-end Developer</h1>
 <hr/>
 <p> My Skills</p>
 <div align="left">
